@@ -15,7 +15,7 @@
     
             /* navigation menu */
             nav {
-                background: rgb(0, 80, 41);
+                background: rgb(255, 255, 255);
                 margin: 0 auto;
                 margin-bottom: 20px;
                 display: flex;
@@ -24,11 +24,12 @@
             nav header {
                 display: flex;
                 align-items: center;
-                color: rgb(255, 255, 255);
+                color: rgb(0, 0, 0);
                 flex: 1;
             }
             nav ul {
                 list-style-image: none;
+                
             }
             nav li {
                 display: inline-block;
@@ -36,7 +37,8 @@
             }
             nav a {
                 text-decoration: none;
-                color: #fff;
+                align-items: center;
+                color: rgb(0, 0, 0);
             }
     
             /* main container area beneath menu */
@@ -58,3 +60,19 @@
             .interests header {
                 font-size: 1.25em;
             }
+           img {border: #00000B 4px solid;}
+            nav {border: #00000B 4px solid;}
+           p1{font-family: "Times New Roman";}
+           h1{font-family: "Times New Roman";}
+           nav header {
+    font-family: "Verdna", Times, serif;}
+           div {
+    font-size:large;
+}
+  img{
+    border-radius: 40px;
+    background: #000000B;
+}
+body {
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhhCFMGDv-qzUycRd1MlioiisYMwtvzkPDoPQTsj23R-3GDQ0nQ");
+}
