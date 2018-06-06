@@ -1,5 +1,5 @@
   body {
-                background: rgb(155, 0, 155);
+                background: rgb(255, 255, 255);
                 color: rgb(45, 45, 45);
                 padding: 10px;
                 font-family: arial;
@@ -15,7 +15,7 @@
     
             /* navigation menu */
             nav {
-                background: rgb(255, 255, 255);
+                background: rgb(255,255,255);
                 margin: 0 auto;
                 margin-bottom: 20px;
                 display: flex;
@@ -61,6 +61,7 @@
                 font-size: 1.25em;
             }
            img {border: #00000B 4px solid;}
+            main {border: #00000B 3px solid;}
             nav {border: #00000B 4px solid;}
            p1{font-family: "Times New Roman";}
            h1{font-family: "Times New Roman";}
