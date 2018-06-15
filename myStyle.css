@@ -12,8 +12,6 @@
                 max-width: 800px;
                 margin: auto;
             }
-    
-            /* navigation menu */
             nav {
                 background: rgb(255,255,255);
                 margin: 0 auto;
@@ -40,8 +38,6 @@
                 align-items: center;
                 color: rgb(0, 0, 0);
             }
-    
-            /* main container area beneath menu */
             main {
                 background: rgb(245, 238, 219);
                 display: flex;
@@ -56,6 +52,7 @@
             .content {
                 flex: 1;
                 padding: 15px;
+                
             }
             .interests header {
                 font-size: 1.25em;
